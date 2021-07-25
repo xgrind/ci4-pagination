@@ -1,8 +1,8 @@
 # Antes de começar
 
-## Para criar o banco de dados, digite no terminal:
+## Para criar o banco de dados, digite no terminal. (Ou crie manualmente):
 
-php spark db:create foo
+php spark db:create testdb
 
 ## Para criar a tabela:
 
