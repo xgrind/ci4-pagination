@@ -4,14 +4,14 @@
 
 php spark db:create foo
 
-Para criar a tabela:
+## Para criar a tabela:
 
-## php spark migrate
+php spark migrate
 
-Para popular a tabela:
+## Para popular a tabela:
 
-## php spark db:seed UserSeeder
+php spark db:seed UserSeeder
 
-E finalmente, para subir o servidor:
+## E finalmente, para subir o servidor:
 
 php spark serve
